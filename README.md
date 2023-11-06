@@ -1,3 +1,5 @@
+![detective](https://github.com/nayaba/pw-lesson-02/assets/9198401/9e3b6399-a9c2-465b-b046-c8e0903a6743)
+
 # The JavaScript Console: Your Coding Diary
 
 Imagine you're a detective trying to solve a mystery, and you've got this neat little notebook where you jot down clues as you find them. The JavaScript console is kind of like that notebook for coders. It's a part of web browsers that lets you record information, test snippets of code, and uncover the mysteries of your JavaScript.
@@ -13,7 +15,8 @@ This console is where you'll see messages, errors, or any output from your code.
 
 ### `console.log()`: Chit-Chat with Your Code
 
-Now, `console.log()` is your bread and butter for sending messages to the console. It's like leaving yourself notes or sending texts to future you.
+Now, `console.log()` is your bread ![Uploading detective.gif…]()
+and butter for sending messages to the console. It's like leaving yourself notes or sending texts to future you.
 
 ```javascript
 console.log("Hello, CodePen!");
@@ -49,7 +52,9 @@ Give it a try yourself! Go to CodePen, open the console, and write your first `c
 
 As you embark on your coding journey, `console.log()` is like the friendly guide who points out all the landmarks. It's crucial because it gives you instant feedback on what's happening in your code, which is invaluable when you're learning. So go ahead, log all the things, and watch the mysteries of your code unravel in the console.
 
-###  Introduction to JavaScript as a Standalone Language
+##  Introduction to JavaScript as a Standalone Language
+
+![what](https://github.com/nayaba/pw-lesson-02/assets/9198401/086a4d1e-382c-4c3f-b2e3-2f3b9e956ba4)
 
 #### Understanding JavaScript's Flexibility
 
