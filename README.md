@@ -15,8 +15,7 @@ This console is where you'll see messages, errors, or any output from your code.
 
 ### `console.log()`: Chit-Chat with Your Code
 
-Now, `console.log()` is your bread ![Uploading detective.gif…]()
-and butter for sending messages to the console. It's like leaving yourself notes or sending texts to future you.
+Now, `console.log()` is your bread and butter for sending messages to the console. It's like leaving yourself notes or sending texts to future you.
 
 ```javascript
 console.log("Hello, CodePen!");
