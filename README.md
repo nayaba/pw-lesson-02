@@ -58,7 +58,7 @@ As you embark on your coding journey, `console.log()` is like the friendly guide
 
 #### Understanding JavaScript's Flexibility
 
-JavaScript is a versatile language that can be used in various environments. While it's commonly associated with web development in combination with HTML and CSS, it can also run independently on the command line, or on a server, using environments like Node.js. This lesson focuses on JavaScript itself, not its interaction with HTML and CSS.
+JavaScript is a versatile language that can be used in various environments. While it's commonly associated with web development in combination with HTML and CSS, it can also run independently on the command line (aka in the [Terminal](https://github.com/nayaba/pw-dev-tools#the-terminal-your-command-center)), or on a server, using environments like Node.js. This lesson focuses on JavaScript itself, not its interaction with HTML and CSS.
 
 #### The JavaScript Engine
 
