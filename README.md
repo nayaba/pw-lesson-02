@@ -71,70 +71,25 @@ JavaScript is a versatile language that can be used in various environments. Whi
   
 #### Basic JavaScript Elements
 
-1. **Syntax**: The set of rules that define the combinations of symbols that are considered to be correctly structured JavaScript programs.
+1. **[Syntax](https://github.com/nayaba/pw-lesson-03)**: The set of rules that define the combinations of symbols that are considered to be correctly structured JavaScript programs.
 
-```javascript
-// A line of JavaScript code ending with a semicolon
-console.log('Hello, world!');
-```
+2. **[Comments](https://github.com/nayaba/pw-lesson-03#comments-your-codes-sidekick)**: Notes that explain the code and are ignored when running it.
 
-2. **Comments**: Notes that explain the code and are ignored when running it.
+3. **[Variables](https://github.com/nayaba/pw-lesson-04)**: Containers for storing data values. In modern JavaScript, `let` and `const` are used to declare variables.
 
-```javascript
-// This is a single-line comment
-
-/*
-This is a
-multi-line comment
-*/
-```
-
-3. **Variables**: Containers for storing data values. In modern JavaScript, `let` and `const` are used to declare variables.
-
-```javascript
-let userName = 'Alice'; // 'let' allows you to reassign values
-const PI = 3.14; // 'const' is for constants, which can't be reassigned
-```
-
-4. **Data Types**: JavaScript has various data types, including:
+4. **[Data Types](https://github.com/nayaba/pw-lesson-05)**: JavaScript has various data types, including:
    - **Strings**: Textual data
    - **Numbers**: Both integers and floating-point numbers
    - **Booleans**: True or false values
    - **Objects**: Complex data structures
    - **Arrays**: Lists of data
 
-```javascript
-let message = "Hello"; // String
-let age = 30; // Number
-let isAdult = true; // Boolean
-let person = {firstName:"John", lastName:"Doe"}; // Object
-let colors = ["Red", "Green", "Blue"]; // Array
-```
+5. **[Operators](https://github.com/nayaba/pw-lesson-06)**: Symbols that tell the interpreter to perform specific mathematical or logical manipulations.
 
-5. **Operators**: Symbols that tell the interpreter to perform specific mathematical or logical manipulations.
+6. **[Control Structures](https://github.com/nayaba/pw-lesson-07)**: Direct the flow of the program based on conditions.
 
-```javascript
-let sum = 10 + 5; // Addition
-let isSame = (sum === 15); // Equality check
-```
 
-6. **Control Structures**: Direct the flow of the program based on conditions.
+7. **[Functions](https://github.com/nayaba/pw-lesson-08)**: Blocks of code designed to perform a particular task, called upon by name.
 
-```javascript
-if (age > 18) {
-    console.log('You are an adult.');
-} else {
-    console.log('You are not an adult.');
-}
-```
-
-7. **Functions**: Blocks of code designed to perform a particular task, called upon by name.
-
-```javascript
-function greet() {
-    console.log('Hello, ' + userName);
-}
-greet(); // Invokes the function
-```
 
 [Back to the Wiki](https://github.com/nayaba/pw-wiki)
