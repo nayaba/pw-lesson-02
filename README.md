@@ -131,3 +131,5 @@ function greet() {
 }
 greet(); // Invokes the function
 ```
+
+[Back to the Wiki](https://github.com/nayaba/pw-wiki)
